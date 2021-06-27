@@ -11,6 +11,5 @@ This is TopCoder challenge for java deployment support
 5.The application is then deployed and available to all.
 
 # URL of the deployed app:
-Link:
 Mydemoapp-env-1.eba-exavgpg2.us-east-2.elasticbeanstalk.com
 (Since I'm using Free tier So I stopped the instance.Contact me during the review so that I could restart my instance)
